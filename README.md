@@ -4,6 +4,8 @@
 
 ![Low poly neighborhood built with the Low Poly City Kit: houses, modular roads, trees and vehicles](previews/capa.jpg)
 
+▶️ **[Watch the video on YouTube](https://www.youtube.com/watch?v=o9hur_gAZ-k)** · **[Download on itch.io](https://kkyqr.itch.io/low-poly-city-kit)** (free, optional donation)
+
 > **Short answer:** the Low Poly City Kit (*Kit Cidade Low Poly*) is a **free, public domain (CC0 1.0)** pack of
 > **129 low poly 3D models in glTF/GLB** for building cities in games and visualizations: houses, shops, public
 > services, water and sanitation, renewable energy, waste and recycling, parks, modular road and terrain tiles

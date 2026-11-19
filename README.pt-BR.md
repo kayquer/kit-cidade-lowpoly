@@ -4,6 +4,8 @@
 
 ![Bairro low poly montado com o Kit Cidade Low Poly: casas, ruas modulares, árvores e veículos](previews/capa.jpg)
 
+▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=o9hur_gAZ-k)** · **[Baixe no itch.io](https://kkyqr.itch.io/low-poly-city-kit)** (grátis, doação opcional)
+
 > **Resposta curta:** o Kit Cidade Low Poly é um pacote **gratuito e em domínio público (CC0 1.0)** com
 > **129 modelos 3D low poly em glTF/GLB** para montar cidades em jogos e visualizações. Tem casas, comércio,
 > serviços públicos, água e saneamento, energia renovável, resíduos, parques, ruas e terreno modulares
